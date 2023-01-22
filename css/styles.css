@@ -1,0 +1,78 @@
+
+body {
+    font-family: "Montserrat";
+    color: #9F6CD9;
+}
+
+.black-bg {
+    background-color: #000000;
+}
+
+.brand-color {
+    color: #9F6CD9;
+}
+
+.btn-outline-danger {
+    --bs-btn-color: #9F6CD9;
+    --bs-btn-border-color: #9F6CD9;
+  }
+
+.btn-outline-dark {
+    --bs-btn-color: #9F6CD9;
+    --bs-btn-border-color: #9F6CD9;
+    --bs-btn-hover-bg: 	#9146FF;
+    --bs-btn-hover-border-color: #9146FF;
+  }
+
+.container-fluid {
+    padding:  0%;
+}
+
+.dropdown-menu {
+    background-color: #272727;
+}
+
+.dropdown-item:hover {
+    background-color: #272727;
+    color: #C5B4E3;
+}
+
+.logo-size {
+    height: 110px;
+    width: 110px;
+}
+
+.navbar-collapse {
+    color: #9F6CD9;
+}
+
+.main-content {
+    padding: 3% 3%;
+}
+
+.navbar-brand:hover {
+    color: #C5B4E3;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28159, 108, 217, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: #C5B4E3;
+}
+
+.nav-item {
+    padding: 0 12px;
+}
+
+.title-img {
+    max-width: 100%;
+    max-height: auto;
+}
+
+.welcome-txt {
+    font-family: 'Permanent Marker', cursive;
+    size: 3rem;
+    line-height: 1.25;
+}
