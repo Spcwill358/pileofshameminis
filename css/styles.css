@@ -49,6 +49,10 @@ body {
     color:#C5B4E3;
 }
 
+.info-block {
+    padding-bottom: 2.5rem;
+}
+
 .logo-size {
     height: 110px;
     width: 110px;
@@ -98,5 +102,8 @@ body {
 
 .welcome-txt-padding {
     padding-top: 15%;
+    padding-bottom: 5%;
 }
+
+
 
