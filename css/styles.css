@@ -179,3 +179,24 @@ body {
   height: 16rem;
   width: auto;
 }
+
+/*--Footer Styles--*/
+
+.footer {
+  padding: 3% 2% 1%;
+  text-align: center;
+}
+
+.footer-brands {
+  padding: 0% 1%;
+}
+
+.footer-brands:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.5);
+  color: #c5b4e3;
+}
+
+.footer-contacts {
+  padding-bottom: 1%;
+}
