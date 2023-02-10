@@ -1,5 +1,7 @@
 /*--HTML Elements--*/
-
+a {
+  text-decoration: none;
+}
 body {
   font-family: "Montserrat";
   color: #9f6cd9;
@@ -22,18 +24,18 @@ body {
   color: #9f6cd9;
 }
 
-.brand-txt-purple {
-  font-family: "Permanent Marker", cursive;
-  size: 3.25rem;
-  line-height: 1.25;
-  color: #9f6cd9;
+.light-brand-color {
+  color: #c5b4e3;
 }
 
-.brand-txt-white {
+.white-txt {
+  color: #ffffff;
+}
+
+.brand-txt {
   font-family: "Permanent Marker", cursive;
   size: 3.25rem;
   line-height: 1.25;
-  color: #ffffff;
 }
 
 .container-fluid {
@@ -199,4 +201,14 @@ body {
 
 .footer-contacts {
   padding-bottom: 1%;
+}
+
+/*--Blog Styles--*/
+
+.blog-date-margin {
+  margin-left: 0.75rem;
+}
+
+.blog-continue-link:hover {
+  color: #c5b4e3;
 }
